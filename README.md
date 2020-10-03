@@ -1,9 +1,7 @@
 # <p align='right'>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </p>
+<hr>
 ### Perkenalkan saya Ilham Muhamad Fadilah 👋
-My list
-* HTML
-* CSS
-* Javascript
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 
