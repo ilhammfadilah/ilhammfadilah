@@ -1,4 +1,4 @@
-# السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 
+<p align='right'># السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </p>
 ### Perkenalkan saya Ilham Muhamad Fadilah 👋
 My list
 * HTML
