@@ -1,7 +1,4 @@
-# <p align='center'>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </p>
-<hr>
-
-### Perkenalkan Saya Ilham Muhamad Fadilah 👋
+## Perkenalkan Saya Ilham Muhamad Fadilah 👋
 
 #### Tech i learn
 
