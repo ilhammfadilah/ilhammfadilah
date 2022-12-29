@@ -4,7 +4,8 @@
 Saya tertarik dengan front-developer
 
 ## Primary language
-❤️ Javascript
+- Javascript
+- Go (Learning)
 
 ## Tech
 - HTML
