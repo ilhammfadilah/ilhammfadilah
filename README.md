@@ -8,13 +8,9 @@ Saya tertarik dengan front-end
 - Go (Learning)
 
 ## Tech
-- HTML
-- CSS
-- Bootstrap
-- Tailwind
-- PHP
-- Codeigniter
-- Laravel
+- Basic (HTML, CSS)
+- CSS Framework (Bootstrap, Tailwind)
+- PHP Framework (Codeigniter, Laravel)
 
 ### Power By
 - Linux
