@@ -12,7 +12,6 @@ Saya tertarik dengan front-end
 - CSS Framework (Bootstrap, Tailwind)
 - PHP Framework (Codeigniter, Laravel)
 
-### Power By
-- Linux
-- Visual Studio Code
-- Neovim
+### Powered By
+- Operating System (Linux, Windows)
+- Code editor (Visual Studio Code, Neovim)
