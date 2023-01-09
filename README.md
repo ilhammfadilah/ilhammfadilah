@@ -11,6 +11,7 @@ front-end developer who love using neovim for development
 - Basic (HTML, CSS)
 - CSS Framework (Bootstrap, Tailwind)
 - PHP Framework (Codeigniter, Laravel)
+- Database (MySql)
 
 ## Powered By
 - Operating System (Linux, Windows)
