@@ -5,7 +5,6 @@ front-end developer who love using neovim for development
 
 ## Primary language
 - Javascript
-- Go (Learning)
 
 ## Tech
 - Basic (HTML, CSS)
